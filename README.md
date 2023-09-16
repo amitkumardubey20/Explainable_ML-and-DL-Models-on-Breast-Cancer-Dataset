@@ -61,9 +61,9 @@ FFNN
 
 I have used both ML and DL algorithms
 
-In ML the best performing algorithm is Random Forest with the accuracy of 97.85%.
+In ML the best performing algorithm is Random Forest with the accuracy of **97.85%**.
 
-In DL the best performing algorithm is FFNN with the accuracy of 97.61%.
+In DL the best performing algorithm is FFNN with the accuracy of **97.61**%.
 
 
 
